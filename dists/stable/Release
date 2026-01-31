@@ -6,5 +6,5 @@ Architectures: amd64
 Components: main
 Description: VirtualGUI QEMU Manager Repository
 SHA256:
- 186210919bca38e1f25920d88c3c777fc6cad8d0e91a002212186fbf58a10caa 472 main/binary-amd64/Packages.gz
- 7650873e7cb801a0df5397e1627f53db62f5d878b24ee6936a969e6be8277510 652 main/binary-amd64/Packages
+ 219bf83425f5c69f5d60c824f945019156302b6c6cad645659f4c70a217b11f2 490 main/binary-amd64/Packages.gz
+ 660a6667ebdc135c39687b272ce6061e8272994f4af2e8f09ac3391c1a2cfa36 681 main/binary-amd64/Packages
