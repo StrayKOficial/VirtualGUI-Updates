@@ -5,7 +5,6 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: VirtualGUI QEMU Manager Repository
-MD5Sum:
- cfa33cb3470f4763b2fe303ad22c7f84 472 main/binary-amd64/Packages.gz
 SHA256:
- e0eaacc23657b2ecce671c6de6c37f9b37afc0a1eccd5cbb3be8ffdb58eb9b24 472 main/binary-amd64/Packages.gz
+ 186210919bca38e1f25920d88c3c777fc6cad8d0e91a002212186fbf58a10caa 472 main/binary-amd64/Packages.gz
+ 7650873e7cb801a0df5397e1627f53db62f5d878b24ee6936a969e6be8277510 652 main/binary-amd64/Packages
