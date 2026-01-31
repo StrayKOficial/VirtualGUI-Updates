@@ -1,0 +1,7 @@
+Origin: VirtualGUI Repository
+Label: VirtualGUI
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: VirtualGUI QEMU Manager Repository
