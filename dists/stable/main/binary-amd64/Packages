@@ -1,0 +1,16 @@
+Package: virtualgui
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Antigravity <antigravity@gemini.ai>
+Depends: python3, python3-venv, qemu-system-x86, libgl1 | libgl1-mesa-glx, libpulse0, libxcb-xinerama0
+Filename: ./virtualgui_1.0.0_amd64.deb
+Size: 15554
+MD5sum: 0edd0edbfda7b602d4e14bab43bd910e
+SHA1: 4871b4671b80c754f875f1b1bc17599cf96dc0da
+SHA256: 660f531378141bd2f894907c7357c5db5fd93fe237215f5ee6fe54ff93d9eaa1
+Section: utils
+Priority: optional
+Description: VirtualGUI - QEMU Virtual Machine Manager
+ A clean and professional web-based interface for managing QEMU virtual machines.
+ Features a shadcn-inspired zinc theme and subtle animations.
+
